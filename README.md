@@ -1,5 +1,4 @@
-##Hi there, I'm Disha Debashrita 👋
-Welcome to my GitHub profile! I’m a Data Scientist with a passion for solving complex problems using data. I love working on machine learning, data analytics, and data visualization. Feel free to explore my repositories, and let’s connect!
+
 <!--
 **dishadebashrita/dishadebashrita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
