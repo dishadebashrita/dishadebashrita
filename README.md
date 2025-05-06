@@ -20,7 +20,7 @@ Turning raw data into actionable insights, creating data-driven strategies, or b
 
 Email: ddebashrita95@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/disha-debashrita-0a38b820b/
+LinkedIn: www.linkedin.com/in/disha-debashrita
 
 😄 Pronouns
 She/Her
